@@ -1,7 +1,0 @@
-{
-  "animal":"Cat",
-  "age":"5",
-  "isBlack":"false",
-  "paw":[1,2,3,4],
-  "dog": null
-}
