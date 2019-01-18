@@ -1,3 +1,15 @@
 body {
-  background-color: #266dc2;
+  width: 350px;
+  margin: 0;
+  padding: 0 10px;
+
+  font-size: 14px;
+  font-family: "Arial", sans-serif;
 }
+td{width: 33%; padding:10px; border-bottom: 1px solid lightgray;}
+table{border-collapse:collapse;}
+
+.darkcyan{ background-color: darkcyan; color:white}
+.lightblue{ background-color: lightblue; color: white;}
+.lightyellow{background-color:lightyellow;}
+.style{border-bottom:hidden border-top: 1px solid black; border-bottom: 1px solid black}
